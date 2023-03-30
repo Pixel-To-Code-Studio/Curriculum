@@ -7,7 +7,7 @@
 # Curriculum <small>0.1</small>
 
 [GitHub](https://github.com/Pixel-To-Code-Studio/Curriculum)
-[Get Started](#quick-start)
+[Get Started](./README.md)
 
 <!-- background color -->
 
